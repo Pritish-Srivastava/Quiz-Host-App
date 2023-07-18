@@ -1,0 +1,8 @@
+**/staticresources/**
+**/lwc/jsconfig.json
+.sf
+.sfdx
+.vscode
+.localdevserver
+/coverage
+README.md
